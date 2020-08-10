@@ -18,3 +18,9 @@ In order to get a generate a token, please use one of the sample users username 
 2. ninja:ninja
 
 3. test:test
+
+### ToDo :
+
+* Handle errors and exceptions
+
+* Fix the CreateReservations post request
