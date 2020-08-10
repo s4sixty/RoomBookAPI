@@ -10,3 +10,11 @@ Swagger has been configured to document the API endpoints at http://localhost:40
 Most of endpoints are secured with a JWT middleware, you need a jwt token authorization to access the api.
 
 In order to get a generate a token, please use one of the sample users username and password at http://localhost:4000/users/login
+
+### Sample data :
+
+1. user:user
+
+2. ninja:ninja
+
+3. test:test
